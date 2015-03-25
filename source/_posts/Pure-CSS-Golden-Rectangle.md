@@ -8,7 +8,6 @@ post_asset_folder: true
 
 <div class="first-image">
 <img src="/img/golden_rectangle.png" />
-{% asset_img golden_rectangle.png %}
 </div>
 
 The [golden ratio](http://en.wikipedia.org/wiki/Golden_rectangle "Wikipedia: Golden Rectangle") has long fascinated mankind because blah blah blah... And the [golden rectangle](http://en.wikipedia.org/wiki/Golden_rectangle "Wikipedia: Golden Rectangle") has aesthetic properties because of yadda yadda yadda... If you don't already know about this magical number, I'm not the person to educate you. Trust me, it's cool. About a year ago I decided to create the golden rectangle in pure CSS as a way to learn about inheritance and to prepare myself to create more complex fractals in CSS/HTML.
