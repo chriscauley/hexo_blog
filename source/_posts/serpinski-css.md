@@ -3,6 +3,7 @@ date: 2014-03-12 13:24:32
 tags: 
 - CSS
 - fractals
+comments: false
 ---
 
 <p data-height="350" data-theme-id="0" data-slug-hash="JoxNZK" data-default-tab="result" data-user="chriscauley" class='codepen'>See the Pen <a href='http://codepen.io/chriscauley/pen/JoxNZK/'>Serpinski CSS Triangle</a> by Chris Cauley (<a href='http://codepen.io/chriscauley'>@chriscauley</a>) on <a href='http://codepen.io'>CodePen</a>.</p>

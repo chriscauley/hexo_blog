@@ -7,7 +7,7 @@ title: A Blog About Nothing
 subtitle:
 description:
 author: Chris Cauley
-language:
+language: en
 timezone:
 
 # URL
@@ -62,7 +62,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: persona-dark
+theme: biture
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

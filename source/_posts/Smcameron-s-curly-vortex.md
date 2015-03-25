@@ -6,6 +6,7 @@ tags:
 - programming
 - processing
 post_asset_folder: true
+comments: false
 ---
 
 I missed out on the [April Recreational Programming Group](http://txrxlabs.org/blog/smcameron/recreational-computer-programming-group-april-2014/) because I was at PyCon. He presented on a really cool texture genreator. It's written in Processing so I decided to see how easy it is to run it using [processing.js](http://processingjs.org/). TL;DR - Really easy.
@@ -24,4 +25,4 @@ I also resized it and changed the image. I wanted to add the ability to input an
 
 Also I added a button for freezing the image so that you can easily save the image. I might eventually create a txrxlabs.org subdomain for hosting this and other projects, but for now this is all I'm doing:
 
-<iframe src="/projects/smcameron/index.html" frameBorder="0" width="300" height="700"></iframe>
+<iframe src="//chriscauley.github.io/curly-vortex/" frameBorder="0" width="300" height="700"></iframe>

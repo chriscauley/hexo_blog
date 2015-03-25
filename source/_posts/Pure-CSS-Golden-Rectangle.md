@@ -3,7 +3,7 @@ date: 2014-04-12 16:14:01
 tags:
 - CSS
 - fractals
-post_asset_folder: true
+comments: false
 ---
 
 <div class="first-image">
